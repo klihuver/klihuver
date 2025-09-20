@@ -57,7 +57,7 @@ Me gusta crear proyectos que mezclen *tecnología y elegancia*, siempre cuidando
 
 <!-- Footer con logo -->
 <p align="center">
-  <img src="xing.png" alt="Firma Klihuver" width="90"/>
+  <img src="icon.png" alt="Firma Klihuver" width="90"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6600,50:000000,100:0f0f0f&height=100&section=footer"/>
