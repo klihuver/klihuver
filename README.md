@@ -43,7 +43,7 @@ Me gusta crear proyectos que mezclen *tecnología y elegancia*, siempre cuidando
   <a href="https://www.facebook.com/klihuver" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/klihuver" target="_blank">
+  <a href="https://www.instagram.com/klihuver_dominguez" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@klihuver" target="_blank">
