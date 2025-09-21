@@ -36,8 +36,8 @@ Me gusta crear proyectos que mezclen *tecnología y elegancia*, siempre cuidando
 ## 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/klihuver" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="[https://www.linkedin.com/in/klihuver" target="_blank](https://www.linkedin.com/in/klihuverDominguez/)">
+    <img src="[https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://www.flaticon.es/icono-gratis/linkedin_145807)" />
   </a>
   <a href="https://www.facebook.com/klihuver" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
