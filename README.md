@@ -29,7 +29,7 @@ Me gusta crear proyectos que mezclen *tecnología y elegancia*, siempre cuidando
 ---
 
 ## 🚀 Proyectos destacados  
-- 🕒 [Reloj Elegante](https://klihuver.github.io/reloj-js./)  
+- 🕒 [Reloj Elegante](https://github.com/klihuver/reloj-js.)  
 - ✨ Más proyectos próximamente...  
 ---
 
